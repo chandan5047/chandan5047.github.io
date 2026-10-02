@@ -1,13 +1,29 @@
 # Chandan Bhattarai — Academic Website
 
-Personal academic website built with [Quarto](https://quarto.org/) and published with GitHub Pages.
+Source code for my academic website: **https://chandan5047.github.io**
 
-## Local preview
+The site is built with [Quarto](https://quarto.org/) and automatically published through GitHub Actions.
+
+## Edit locally
+
+1. Clone this repository.
+2. Open it in RStudio or VS Code.
+3. Edit the `.qmd` files.
+4. Preview with:
 
 ```bash
 quarto preview
 ```
 
-## Publish
+5. Commit and push changes to `main`. GitHub Actions will rebuild and publish the website automatically.
 
-Pushing to `main` triggers the GitHub Pages workflow in `.github/workflows/publish.yml`.
+## Main files
+
+- `index.qmd` — homepage
+- `about.qmd` — biography
+- `research.qmd` — research projects
+- `teaching.qmd` — teaching
+- `publications.qmd` — publications and outreach
+- `cv/index.qmd` — CV
+- `styles.scss` — colors and site styling
+- `_quarto.yml` — navigation and global website settings
