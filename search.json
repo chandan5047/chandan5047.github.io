@@ -102,35 +102,7 @@
     "href": "cv/index.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "My current curriculum vitae will be available here as a downloadable PDF."
-  },
-  {
-    "objectID": "cv/index.html#education",
-    "href": "cv/index.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\nPh.D. in Agricultural Economics\nKansas State University · Expected 2027\nM.S. in Agricultural Economics\nUniversity of Arkansas · 2023\nB.S. in Agriculture\nAgriculture and Forestry University · Nepal"
-  },
-  {
-    "objectID": "cv/index.html#research-fields",
-    "href": "cv/index.html#research-fields",
-    "title": "Curriculum Vitae",
-    "section": "Research fields",
-    "text": "Research fields\nProduction economics · Risk and uncertainty · Farm finance · Crop insurance · Agricultural policy · Climate risk"
-  },
-  {
-    "objectID": "cv/index.html#quantitative-methods",
-    "href": "cv/index.html#quantitative-methods",
-    "title": "Curriculum Vitae",
-    "section": "Quantitative methods",
-    "text": "Quantitative methods\nPanel econometrics · Structural modeling · GMM · Causal inference · Monte Carlo simulation · Statistical learning · Risk analysis"
-  },
-  {
-    "objectID": "cv/index.html#software",
-    "href": "cv/index.html#software",
-    "title": "Curriculum Vitae",
-    "section": "Software",
-    "text": "Software\nR · Python · Stata · SQL · Power BI · Microsoft Office\n\n\n\n\n\n\nTip\n\n\n\nA downloadable and embedded PDF version can be added here once the current CV file is uploaded to the repository."
+    "text": "Download CV"
   },
   {
     "objectID": "research.html",
