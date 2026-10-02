@@ -28,46 +28,32 @@
     "text": "Software\nR · Python · Stata · SQL · Power BI · Microsoft Excel"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications & Outreach",
+    "objectID": "extension.html",
+    "href": "extension.html",
+    "title": "Extension",
     "section": "",
-    "text": "This page highlights selected scholarly and extension work. Full bibliographic citations can be added as manuscripts and publications are finalized."
+    "text": "My extension and policy work translates applied economic research into decision-relevant information for producers, agricultural lenders, policymakers, and other stakeholders. Much of this work focuses on the U.S. farm safety net, crop insurance, ARC-CO and PLC, and risk-management decisions."
   },
   {
-    "objectID": "publications.html#peer-reviewed-research",
-    "href": "publications.html#peer-reviewed-research",
-    "title": "Publications & Outreach",
-    "section": "Peer-reviewed research",
-    "text": "Peer-reviewed research\nMy research includes work on agricultural risk management, forward contracting, crop insurance, producer decision-making, production risk, and agricultural policy."
+    "objectID": "extension.html#extension-policy-publications",
+    "href": "extension.html#extension-policy-publications",
+    "title": "Extension",
+    "section": "Extension & Policy Publications",
+    "text": "Extension & Policy Publications\n\nPongspikul, T., Paudel, A., Bhattarai, C., Wongpiyabovorn, O., Ifft, J., & Plastina, A. (2025, November). Projected 2025 and 2026 ARC-CO and PLC payments for soybeans (RaFF Policy Brief No. 2025-11(3)). Rural and Farm Finance Policy Analysis Center, University of Missouri. View publication\nPongspikul, T., Paudel, A., Bhattarai, C., Wongpiyabovorn, O., Ifft, J., & Plastina, A. (2025, November). Projected 2025 and 2026 ARC-CO and PLC payments for corn (RaFF Policy Brief No. 2025-11(2)). Rural and Farm Finance Policy Analysis Center, University of Missouri. View publication\nIfft, J., Joseph, D., Paudel, A., & Bhattarai, C. (2025, October). Projected ARC, PLC, and crop insurance net payouts per acre under OBBBA. K-State Department of Agricultural Economics Extension Publication, Kansas State University. View publication\nPongspikul, T., Paudel, A., Bhattarai, C., Wongpiyabovorn, O., Ifft, J., & Plastina, A. (2025, October). Projected 2025 and 2026 ARC-CO and PLC payments for wheat (RaFF Policy Brief No. 2025-10(4)). Rural and Farm Finance Policy Analysis Center, University of Missouri-Columbia. View publication\nBhattarai, C., Ifft, J., Paudel, A., & Joseph, D. (2025, September). Estimated net returns to Supplemental Coverage Option participation before and after OBBBA changes. K-State Department of Agricultural Economics Extension Publication, Kansas State University. View publication\nBhattarai, C., Ifft, J., Paudel, A., & Joseph, D. (2025, September). SCO Expected Net Indemnity Payments Map. K-State Department of Agricultural Economics Extension Publication, Kansas State University. View publication\nIfft, J., Joseph, D., Paudel, A., Bhattarai, C., & Moss, L. (2025, July). Mapping the Farm Safety Net: County Average Commodity Payments and Crop Insurance Net Indemnities, 2014–2023. K-State Department of Agricultural Economics Extension Publication, Kansas State University. View publication\nBiram, H., McKenzie, A. M., & Bhattarai, C. (2025, June 11). How can crop marketing and crop insurance go together? Southern Ag Today, 5(24.3). View article"
   },
   {
-    "objectID": "publications.html#extension-policy-outreach",
-    "href": "publications.html#extension-policy-outreach",
-    "title": "Publications & Outreach",
-    "section": "Extension & policy outreach",
-    "text": "Extension & policy outreach\n\nHow Can Crop Marketing and Crop Insurance Go Together?\nCoauthored extension article published by Southern Ag Today. The article was recognized as the Top Wednesday Article for May 2025–April 2026.\nI have also contributed to extension and policy work on ARC-CO and PLC payments for major U.S. crops."
-  },
-  {
-    "objectID": "publications.html#selected-presentations",
-    "href": "publications.html#selected-presentations",
-    "title": "Publications & Outreach",
-    "section": "Selected presentations",
-    "text": "Selected presentations\n\nAAEA Annual Meeting, 2026\nRisk and Profit Conference, 2026\nSCC-76 Annual Meeting, 2026"
-  },
-  {
-    "objectID": "publications.html#research-recognition",
-    "href": "publications.html#research-recognition",
-    "title": "Publications & Outreach",
-    "section": "Research recognition",
-    "text": "Research recognition\n\nAAEA Graduate Case Study Competition, 2025 — Second runner-up\nAAEA Graduate Extension Competition, 2026 — Finalist\nK-State Alumni Scholarship Award, 2025\n\n\n\n\n\n\n\nNote\n\n\n\nWhen you send me your current academic CV or publication list, this page can be converted into a complete citation-based publication record with DOI, journal, coauthor, paper, code, and presentation links."
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum Vitae",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chandan Bhattarai",
     "section": "",
-    "text": "Download CV"
+    "text": "Ph.D. Candidate in Agricultural Economics · Kansas State University\n\nMy research lies at the intersection of production economics, risk and uncertainty, and farm finance, with applications to crop insurance, agricultural policy, climate risk, and farm investment decisions.\nI study the risks agricultural producers face, their preferences toward those risks, and the incentives created by markets and government programs. My work combines economic theory, econometric methods, simulation, and statistical learning to understand producer behavior and inform agricultural decision-making.\n\nResearch Teaching Publications CV GitHub"
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Chandan Bhattarai",
+    "section": "Research areas",
+    "text": "Research areas\n\n\n\nRisk & uncertainty\nProducer risk preferences, stochastic production decisions, crop insurance, and farm investment under uncertainty.\nRisk preferences Crop insurance Farm finance\n\n\n\n\nProduction & climate\nYield risk, extreme heat, crop rotations, previous-crop effects, and climate-related vulnerabilities in agricultural production.\nProduction economics Climate risk Yield distributions\n\n\n\n\nAgricultural policy\nEconomic incentives created by agricultural programs and their implications for producer behavior and risk management.\nPolicy analysis ARC/PLC Incentives\n\n\n\n\nApplied methods\nPanel econometrics, causal inference, structural modeling, Monte Carlo simulation, statistical learning, and data visualization.\nEconometrics Simulation Statistical learning"
   },
   {
     "objectID": "teaching.html",
@@ -91,32 +77,11 @@
     "text": "Teaching philosophy\nI aim to make quantitative tools approachable by connecting technical concepts to realistic decisions. Rather than treating software as an end in itself, I encourage students to understand the economic logic behind each calculation and to communicate results clearly."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Chandan Bhattarai",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Ph.D. Candidate in Agricultural Economics · Kansas State University\n\nMy research lies at the intersection of production economics, risk and uncertainty, and farm finance, with applications to crop insurance, agricultural policy, climate risk, and farm investment decisions.\nI study the risks agricultural producers face, their preferences toward those risks, and the incentives created by markets and government programs. My work combines economic theory, econometric methods, simulation, and statistical learning to understand producer behavior and inform agricultural decision-making.\n\nResearch Teaching Publications CV GitHub"
-  },
-  {
-    "objectID": "index.html#research-areas",
-    "href": "index.html#research-areas",
-    "title": "Chandan Bhattarai",
-    "section": "Research areas",
-    "text": "Research areas\n\n\n\nRisk & uncertainty\nProducer risk preferences, stochastic production decisions, crop insurance, and farm investment under uncertainty.\nRisk preferences Crop insurance Farm finance\n\n\n\n\nProduction & climate\nYield risk, extreme heat, crop rotations, previous-crop effects, and climate-related vulnerabilities in agricultural production.\nProduction economics Climate risk Yield distributions\n\n\n\n\nAgricultural policy\nEconomic incentives created by agricultural programs and their implications for producer behavior and risk management.\nPolicy analysis ARC/PLC Incentives\n\n\n\n\nApplied methods\nPanel econometrics, causal inference, structural modeling, Monte Carlo simulation, statistical learning, and data visualization.\nEconometrics Simulation Statistical learning"
-  },
-  {
-    "objectID": "extension.html",
-    "href": "extension.html",
-    "title": "Extension",
-    "section": "",
-    "text": "My extension and policy work translates applied economic research into decision-relevant information for producers, agricultural lenders, policymakers, and other stakeholders. Much of this work focuses on the U.S. farm safety net, crop insurance, ARC-CO and PLC, and risk-management decisions."
-  },
-  {
-    "objectID": "extension.html#extension-policy-publications",
-    "href": "extension.html#extension-policy-publications",
-    "title": "Extension",
-    "section": "Extension & Policy Publications",
-    "text": "Extension & Policy Publications\n\nPongspikul, T., Paudel, A., Bhattarai, C., Wongpiyabovorn, O., Ifft, J., & Plastina, A. (2025, November). Projected 2025 and 2026 ARC-CO and PLC payments for soybeans (RaFF Policy Brief No. 2025-11(3)). Rural and Farm Finance Policy Analysis Center, University of Missouri. View publication\nPongspikul, T., Paudel, A., Bhattarai, C., Wongpiyabovorn, O., Ifft, J., & Plastina, A. (2025, November). Projected 2025 and 2026 ARC-CO and PLC payments for corn (RaFF Policy Brief No. 2025-11(2)). Rural and Farm Finance Policy Analysis Center, University of Missouri. View publication\nIfft, J., Joseph, D., Paudel, A., & Bhattarai, C. (2025, October). Projected ARC, PLC, and crop insurance net payouts per acre under OBBBA. K-State Department of Agricultural Economics Extension Publication, Kansas State University. View publication\nPongspikul, T., Paudel, A., Bhattarai, C., Wongpiyabovorn, O., Ifft, J., & Plastina, A. (2025, October). Projected 2025 and 2026 ARC-CO and PLC payments for wheat (RaFF Policy Brief No. 2025-10(4)). Rural and Farm Finance Policy Analysis Center, University of Missouri-Columbia. View publication\nBhattarai, C., Ifft, J., Paudel, A., & Joseph, D. (2025, September). Estimated net returns to Supplemental Coverage Option participation before and after OBBBA changes. K-State Department of Agricultural Economics Extension Publication, Kansas State University. View publication\nBhattarai, C., Ifft, J., Paudel, A., & Joseph, D. (2025, September). SCO Expected Net Indemnity Payments Map. K-State Department of Agricultural Economics Extension Publication, Kansas State University. View publication\nIfft, J., Joseph, D., Paudel, A., Bhattarai, C., & Moss, L. (2025, July). Mapping the Farm Safety Net: County Average Commodity Payments and Crop Insurance Net Indemnities, 2014–2023. K-State Department of Agricultural Economics Extension Publication, Kansas State University. View publication\nBiram, H., McKenzie, A. M., & Bhattarai, C. (2025, June 11). How can crop marketing and crop insurance go together? Southern Ag Today, 5(24.3). View article"
+    "text": "Download CV"
   },
   {
     "objectID": "research.html",
