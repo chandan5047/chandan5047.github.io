@@ -3,31 +3,12 @@ title: "Curriculum Vitae"
 description: "Curriculum vitae of Chandan Bhattarai"
 ---
 
-My current curriculum vitae will be available here as a downloadable PDF.
+<p class="text-center">
+  <a class="btn btn-primary btn-lg" href="CV_CB.pdf" target="_blank">
+    Download CV
+  </a>
+</p>
 
-## Education
-
-**Ph.D. in Agricultural Economics**  
-Kansas State University · Expected 2027
-
-**M.S. in Agricultural Economics**  
-University of Arkansas · 2023
-
-**B.S. in Agriculture**  
-Agriculture and Forestry University · Nepal
-
-## Research fields
-
-Production economics · Risk and uncertainty · Farm finance · Crop insurance · Agricultural policy · Climate risk
-
-## Quantitative methods
-
-Panel econometrics · Structural modeling · GMM · Causal inference · Monte Carlo simulation · Statistical learning · Risk analysis
-
-## Software
-
-R · Python · Stata · SQL · Power BI · Microsoft Office
-
-::: {.callout-tip}
-A downloadable and embedded PDF version can be added here once the current CV file is uploaded to the repository.
-:::
+<div style="position:relative;padding-bottom:129%;height:0;overflow:hidden;max-width:100%;border:1px solid #ddd;border-radius:6px;">
+  <iframe src="CV_CB.pdf" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe>
+</div>
