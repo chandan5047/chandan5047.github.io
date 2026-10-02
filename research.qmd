@@ -1,0 +1,46 @@
+---
+title: "Research"
+description: "Research by Chandan Bhattarai"
+---
+
+My research examines how agricultural producers respond to risk and how risk-management strategies, markets, and public policy affect production and investment decisions.
+
+::: {.research-card}
+### Estimating producer risk preferences
+
+This project estimates producer risk preferences using a dynamic model of production, consumption, and investment decisions. The empirical analysis uses a large farm-level panel and a two-step generalized method of moments framework.
+
+**Themes:** producer behavior · structural modeling · risk preferences · farm finance
+:::
+
+::: {.research-card}
+### Previous crops, wheat yield, and production risk
+
+This research examines how previous crops affect winter wheat yield and yield risk across Kansas and Oklahoma variety trials. The analysis evaluates average yield responses as well as distributional outcomes, downside risk, weather exposure, and heterogeneity across locations and wheat varieties.
+
+**Themes:** production economics · crop rotations · extreme heat · yield distributions · location heterogeneity
+:::
+
+::: {.research-card}
+### Crop insurance, contracting, and moral hazard
+
+This project studies the interaction between crop insurance and forward contracting in a theoretical expected-utility framework. A central question is whether non-delivery penalties can offset incentives that otherwise contribute to moral hazard.
+
+**Themes:** crop insurance · forward contracts · moral hazard · expected utility · optimal decisions
+:::
+
+::: {.research-card}
+### Climate risk and agricultural productivity
+
+This research investigates how nonlinear temperature exposure and extreme heat affect crop productivity and how production practices can alter exposure to climate-related risk.
+
+**Themes:** climate vulnerability · adaptation · temperature exposure · agricultural productivity
+:::
+
+::: {.research-card}
+### Agricultural policy and extension
+
+I contribute to applied policy analysis related to U.S. farm programs, including ARC-CO and PLC, and translate economic research into extension and policy-oriented outputs for agricultural stakeholders.
+
+**Themes:** agricultural policy · extension · farm programs · decision support
+:::
