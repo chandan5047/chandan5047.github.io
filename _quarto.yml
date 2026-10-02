@@ -26,6 +26,12 @@ website:
 
   page-footer:
     left: "© 2026 Chandan Bhattarai"
+    center: |
+      [{{< fa brands researchgate >}} ResearchGate](https://www.researchgate.net/profile/Chandan-Bhattarai?ev=hdr_xprf)
+      &nbsp;&nbsp;
+      [{{< fa graduation-cap >}} Google Scholar](https://scholar.google.com/citations?user=_c1NAZwAAAAJ&hl=en)
+      &nbsp;&nbsp;
+      [{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/in/chandanbhattarai/)
     right: "Built with [Quarto](https://quarto.org/) and hosted on GitHub Pages"
 
 format:
