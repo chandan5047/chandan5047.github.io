@@ -1,0 +1,26 @@
+---
+title: "Teaching"
+description: "Teaching experience of Chandan Bhattarai"
+---
+
+## Kansas State University
+
+### AGEC 115 — Decision Tools for Agricultural Economics and Agribusiness
+
+**Instructor, Fall 2026**
+
+AGEC 115 introduces students to spreadsheet-based tools used to organize data, evaluate alternatives, and support decision-making in agricultural economics and agribusiness.
+
+My teaching emphasizes:
+
+- Translating economic problems into structured decision tools
+- Building and interpreting Excel formulas and logical functions
+- Data visualization and communication
+- Hands-on problem solving
+- Clear interpretation of quantitative results
+
+I develop lectures, in-class activities, homework assignments, assessments, and supporting materials and provide individual assistance during office hours.
+
+## Teaching philosophy
+
+I aim to make quantitative tools approachable by connecting technical concepts to realistic decisions. Rather than treating software as an end in itself, I encourage students to understand the economic logic behind each calculation and to communicate results clearly.
