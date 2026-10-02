@@ -21,3 +21,57 @@ ul{padding-left:1.25rem}
 .social-btn{display:inline-flex;align-items:center;gap:.45rem;padding:.5rem .8rem;border:1px solid var(--purple);border-radius:999px;font-weight:700;color:var(--purple);background:#fff;text-decoration:none}
 .social-btn:hover{background:var(--purple);color:#fff;text-decoration:none}
 .social-btn .icon{display:inline-flex;align-items:center;justify-content:center;min-width:1.35rem;height:1.35rem;font-size:.82rem;font-weight:800}
+
+.social-footer.icon-only{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:2rem;
+  margin:1.2rem 0 1rem;
+}
+.social-icon{
+  width:58px;
+  height:58px;
+  border-radius:50%;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  text-decoration:none;
+  transition:transform .18s ease, box-shadow .18s ease;
+}
+.social-icon:hover{
+  transform:translateY(-2px) scale(1.04);
+  text-decoration:none;
+  box-shadow:0 6px 16px rgba(0,0,0,.12);
+}
+.social-icon.linkedin{
+  border:3px solid #111;
+  color:#111;
+  background:#fff;
+  font-weight:800;
+  font-size:2rem;
+  font-family:Arial,Helvetica,sans-serif;
+}
+.social-icon.scholar{
+  background:#2f86e5;
+  color:white;
+  font-family:Georgia,serif;
+  font-weight:700;
+  font-size:2.25rem;
+  line-height:1;
+}
+.social-icon.researchgate{
+  background:#10c9ad;
+  color:white;
+  font-family:Georgia,serif;
+  font-size:2rem;
+  line-height:1;
+}
+.social-icon.researchgate sup{
+  font-family:Arial,Helvetica,sans-serif;
+  font-size:.52em;
+  font-weight:700;
+  position:relative;
+  top:-.45em;
+  left:.06em;
+}
