@@ -14,8 +14,6 @@ website:
         href: research.qmd
       - text: "Teaching"
         href: teaching.qmd
-      - text: "Publications"
-        href: publications.qmd
       - text: "CV"
         href: cv/index.qmd
     right:
